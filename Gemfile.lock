@@ -197,14 +197,9 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  http_parser.rb (~> 0.6.0)
   jekyll
   jekyll-data
-  jekyll-sass-converter
   minimal-mistakes-jekyll
-  tzinfo (>= 1, < 3)
-  tzinfo-data
-  wdm (~> 0.1.1)
 
 BUNDLED WITH
    2.5.17
