@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll" # , "~> 4.3.3"
+gem "jekyll", "~> 4.3.3"
 
 # Jekyll Minimal Mistakes theme
 gem "minimal-mistakes-jekyll"
@@ -17,7 +17,7 @@ gem "minimal-mistakes-jekyll"
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-data"
+  # gem "jekyll-data"
   # gem "jekyll-feed", "~> 0.12"
   # gem "jekyll-sass-converter"
 end
